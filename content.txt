@@ -1,0 +1,5 @@
+{
+    "title": "My Story",
+    "author": "Sree Kish",
+    "content" : "This is my first story"
+}
